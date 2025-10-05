@@ -48,7 +48,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -68,7 +68,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
