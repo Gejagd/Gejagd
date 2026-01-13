@@ -61,7 +61,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
 </div>
 
 ###
@@ -79,11 +78,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gejagd/Gejagd/output/snake.svg" alt="Snake animation" />
 
 ###
