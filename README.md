@@ -18,18 +18,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://x.com/KleineEule_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=#ffffff&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=@gejagd&logo=discord&label=&color=7289DA&logoColor=white&labelColor=#ffffff&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=@dshn16_&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=#ffffff&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h1 align="center">Hallo 👋</h1>
 
 ###
