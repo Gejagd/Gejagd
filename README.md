@@ -24,8 +24,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gejagd&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gejagd&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Gejagd&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gejagd&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
@@ -64,7 +64,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gejagd/Gejagd/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gejagd/Gejagd/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gejagd/Gejagd/output/snake-light.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gejagd/Gejagd/output/snake.svg">
 </picture>
 
