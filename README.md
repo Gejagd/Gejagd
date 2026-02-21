@@ -24,12 +24,27 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Gejagd&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gejagd&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gejagd&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Gejagd">
+          <img src="https://github-readme-stats-one.vercel.app/api?username=Gejagd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Gejagd">
+          <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gejagd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/Gejagd">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gejagd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
