@@ -5,18 +5,16 @@
 <br clear="both">
 
 <div align="center">
-  <h1>Hallo 👋 I'm Dans</h1>
-  <img src="https://komarev.com/ghpvc/?username=Gejagd&label=Profile%20views&color=0e75b6&style=flat" alt="Gejagd" />
+  <h2> Hallo 👋 
 </div>
-
-<br clear="both">
 
 ### 👩‍💻 About Me
 
 <p align="left">
-  - 🔭 I’m working as a <b>Game Developer</b> & <b>Web3 Developer</b>.<br>
-  - 📚 I’m currently learning <b>Machine Learning, IoT/Robotics, Data, and Cybersecurity</b>.<br>
-  - ⚡ In my free time, I love exploring new things, learning new skills, and experimenting with different technologies.
+  - 🧰 <b>Game Developer</b> | <b>Web3.0 Developer</b>.<br>
+  - 🎓 <b>Aerospace Engineering | Artificial Inteligence & Robotics</b> undergrad.<br>
+  - 🔬 <b>Machine Learning | IoT / Robotics | Quantum Computing</b>.<br>
+  - ⚡ Love learning new things.
 </p>
 
 ---
@@ -28,19 +26,19 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Gejagd">
-          <img src="https://github-readme-stats-one.vercel.app/api?username=Gejagd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Gejagd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Gejagd">
-          <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gejagd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gejagd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/Gejagd">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gejagd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=Gejagd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
         </a>
       </td>
     </tr>
@@ -51,17 +49,19 @@
 
 ### 🛠 Languages & Tools
 
-#### 🚀 Programming Languages
+#### ⌨️ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,swift,rust" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,rust,swift,py" />
   </a>
 </p>
 
 #### 🔧 Tools & Engines
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,godot,unity,vscode,arduino,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=vscode,arduino,docker,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=godot,unity" />
   </a>
 </p>
 
@@ -88,5 +88,5 @@
 ---
 
 <div align="center">
-  <p>How to reach me: <b>gejagd.dev@gmail.com</b></p>
+  <p>Feel free to reach me : <b>gejagd.dev@gmail.com</b></p>
 </div>
