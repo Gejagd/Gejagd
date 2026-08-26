@@ -24,17 +24,16 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <!-- <td align="center">
           <img src="https://raw.githubusercontent.com/Gejagd/Gejagd/stats-output/stats.svg" height="150" alt="stats graph"  />
-      </td>
-      <td align="center">
+      </td> -->
+      <td align="left">
           <img src="https://raw.githubusercontent.com/Gejagd/Gejagd/languages-output/languages.svg" height="150" alt="languages graph"  />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="2" align="left">
           <img src="https://streak-stats.demolab.com?user=Gejagd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-        </a>
       </td>
     </tr>
   </table>
@@ -47,8 +46,9 @@
 #### ⌨️ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react" /><br>
-    <img src="https://skillicons.dev/icons?i=cs,cpp,rust,swift,py" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,rust,swift" /><br>
+    <img src="https://skillicons.dev/icons?i=py," />
   </a>
 </p>
 
