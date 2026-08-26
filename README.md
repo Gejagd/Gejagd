@@ -21,22 +21,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- <td align="center">
-          <img src="https://raw.githubusercontent.com/Gejagd/Gejagd/stats-output/stats.svg" height="150" alt="stats graph"  />
-      </td> -->
-      <td align="left">
-          <img src="https://raw.githubusercontent.com/Gejagd/Gejagd/languages-output/languages.svg" height="150" alt="languages graph"  />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="left">
-          <img src="https://streak-stats.demolab.com?user=Gejagd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Gejagd/Gejagd/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Gejagd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
 </div>
 
 ---
