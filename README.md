@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/tSXL4KdVaFkAAAAC/r6-jager.gif"  />
+  <picture>
+    <img height="150" src="https://media1.tenor.com/m/tSXL4KdVaFkAAAAC/r6-jager.gif"  />
+  </picture>
 </div>
 
 <br clear="both">
@@ -11,9 +13,9 @@
 ### 👩‍💻 About Me
 
 <p align="left">
-  - 🧰 <b>Game Developer</b> | <b>Web3.0 Developer</b>.<br>
-  - 🎓 <b>Aerospace Engineering | Artificial Inteligence & Robotics</b> undergrad.<br>
-  - 🔬 <b>Machine Learning | IoT / Robotics | Quantum Computing</b>.<br>
+  - 🧰 <b> Game Developer </b> | <b> Web3.0 Developer </b>. <br>
+  - 🎓 <b> Aerospace Engineering </b> | <b> Artificial Inteligence & Robotics </b> undergrad. <br>
+  - 🔬 <b> Machine Learning </b> | <b> IoT / Robotics </b> | <b> Quantum Computing </b>. <br>
   - ⚡ Love learning new things.
 </p>
 
@@ -22,9 +24,13 @@
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Gejagd/Gejagd/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Gejagd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <picture>
+    <img src="https://streak-stats.demolab.com?user=Gejagd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  </picture>
 
+  <picture>
+    <img src="https://raw.githubusercontent.com/Gejagd/Gejagd/languages-output/languages.svg" height="150" alt="languages graph"  />
+  </picture>
 </div>
 
 ---
@@ -34,8 +40,8 @@
 #### ⌨️ Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=cs,cpp,rust,swift" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" /> <br>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,rust,swift" /> <br>
     <img src="https://skillicons.dev/icons?i=py," />
   </a>
 </p>
@@ -43,7 +49,7 @@
 #### 🔧 Tools & Engines
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,arduino,docker,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,arduino,docker,kubernetes" /> <br>
     <img src="https://skillicons.dev/icons?i=godot,unity" />
   </a>
 </p>
@@ -71,5 +77,7 @@
 ---
 
 <div align="center">
-  <p>Feel free to reach me : <b>gejagd.dev@gmail.com</b></p>
+  <p>
+    Feel free to reach me : <b>gejagd.dev@gmail.com</b>
+  </p>
 </div>
